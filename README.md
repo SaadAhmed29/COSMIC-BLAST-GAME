@@ -8,9 +8,11 @@ Features:
 🎨 Custom sprites and animations
 🎵 Sound effects for immersive experience
 🏆 Score tracking and game-over mechanics
+
 Technologies Used:
 C++ (Object-Oriented Programming)
 SFML (Simple and Fast Multimedia Library)
+
 How to Play:
 Move your spaceship using arrow keys
 Fire lasers with Spacebar
